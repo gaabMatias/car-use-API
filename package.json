@@ -1,7 +1,7 @@
 {
-  "name": "market-place",
+  "name": "car-use-API",
   "version": "1.0.0",
-  "description": "a market place based back end",
+  "description": "A car model and user based API",
   "main": "src/app.ts",
   "scripts": {
     "build": "tsc",
